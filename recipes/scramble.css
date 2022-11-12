@@ -1,0 +1,35 @@
+body {
+    background-color: beige;
+}
+
+#header {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+.imagen{
+    display: block;
+    margin: auto;
+    height: auto;
+    width: 300px;
+}
+
+#bloque3,
+#bloque1,
+#bloque2,
+#bloque4 {
+    color: aqua;
+}
+
+
+.encabezado4,
+.encabezado4-1 {
+    color: black;
+    font-size: 25px;
+}
+.encabezado3 {
+    color: white;
+    text-align: center;
+    font-size: 35px;
+}

@@ -1,0 +1,28 @@
+body {
+    background-color: beige;
+}
+#header {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+.encabezado3 {
+    color: white;
+    text-align: center;
+    font-size: 35px;
+}
+
+.imagen {
+    display: block;
+    margin: auto;
+    height: auto;
+    width: 300px;
+}
+
+#bloque1 {
+    color: blue;
+}
+#bloque2 {
+    color: aqua;
+}
